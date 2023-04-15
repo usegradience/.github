@@ -1,3 +1,5 @@
+# The webiste have moved to https://gradienceteam.github.io, this org is there only as archive (until we find a purpose for this website)
+
 <div align="center">
   <a href="https://github.com/GradienceTeam/Gradience">
     <img src="https://github.com/GradienceTeam/Design/blob/main/Covers/cover.png" alt="Cover">
